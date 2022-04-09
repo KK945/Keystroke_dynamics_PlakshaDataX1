@@ -3,6 +3,6 @@ Data-X : Keystroke dynamics based password authentication
 
 Conference Talk - https://t.co/9p4BQMEUuj
 
-Report and documentation of project: https://docs.google.com/document/d/1n8POiWwPfukqC_3ijtX8LFZJcx1bpVSSZ0O4ZIqVqAA/edit?usp=sharing
+Report and documentation of project: https://github.com/KarthikaKamath/Keystroke_dynamics_PlakshaDataX1/blob/master/Data-X%201%20Project%20Report.pdf
 
 siamese.ipynb is the model that is finalised
